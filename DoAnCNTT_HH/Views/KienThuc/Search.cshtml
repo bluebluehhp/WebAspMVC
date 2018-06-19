@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var searchBaiHoc = (List<Model.EF.BaiHoc>)ViewBag.SearchBaiHoc;
+}
+
+<h2>Kết quả tìm kiếm</h2>
+@foreach (var item in searchBaiHoc)
+{
+
+    var url = "/learn/" + item.TieuDeSeo + "-" + item.BaiHocID;
+
+    <a href="@url"> @item.TieuDe.ToString()</a>
+    <br>
+
+}
+

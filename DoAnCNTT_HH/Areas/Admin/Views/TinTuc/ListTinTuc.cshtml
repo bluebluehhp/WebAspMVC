@@ -1,0 +1,72 @@
+﻿@model PagedList.IPagedList<Model.EF.TinTuc>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_layout_admin.cshtml";
+    var ListDanhSach = (List<Model.EF.TinTuc>)ViewBag.ListBaiViet;
+}
+@section header{
+    Danh sách tin tức
+}
+@section PageName{
+    Tin tức
+}
+<div class="row">
+    <div class="col-xs-12">
+        <div class="box">
+            <div class="box-header">
+                <h3 class="box-title">Danh sách tin tức</h3>
+                <div class="box-tools">
+                    <div class="input-group" style="width: 150px;">
+                        <input type="text" name="table_search" class="form-control input-sm pull-right" placeholder="Search" />
+                        <div class="input-group-btn">
+                            <button class="btn btn-sm btn-default"><i class="fa fa-search"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.box-header -->
+            <div class="box-body table-responsive no-padding">
+                <table class="table table-hover">
+                    <tr>
+                        <th>ID</th>
+                        <th>Danh mục tin tức</th>
+                        <th>Tên bài viết</th>
+                        <th>Ngày tạo</th>
+                        <th>Chỉnh sửa</th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr id=row_@item.TinTucID>
+                            <td>@item.TinTucID.ToString()</td>
+                            <td>@item.DanhMucTinTucID.ToString()</td>
+                            <td>@item.Ten.ToString()</td>
+                            @if (item.NgayTao != null)
+                            {
+                                <td>@item.NgayTao.ToString()</td>
+                            }
+                            else
+                            {
+                                <td>Đang cập nhật</td>
+                            }
+
+                                <td >
+                                    <a href="/Admin/TinTuc/Edit/@item.TinTucID" @*class="btn btn-default"*@>Sửa</a>|@*<a class="btn btn-default">Xóa</a>*@
+                                    @Ajax.ActionLink("Xoá", "Delete",new { @*@class = "btn btn-default",*@ @id =item.TinTucID },new AjaxOptions
+                               {
+                                   Confirm = "Bạn có muốn xoá bản ghi này?",
+                                   OnComplete = "$('#row_" + @item.TinTucID + "').remove()",
+                                   HttpMethod = "Delete"
+                               })
+                                </td>
+                        </tr>
+                    }
+
+
+                </table>
+                @Html.PagedListPager(Model,page =>Url.Action("ListTinTuc",new { page}))
+            </div><!-- /.box-body -->
+        </div><!-- /.box -->
+    </div>
+</div>
+

@@ -1,0 +1,75 @@
+﻿@{
+    Layout = null;
+}
+@model List<Model.EF.DanhMucKienThuc>
+
+<div>
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            @Html.ActionLink("IT Bluesky", "Next", "Home", new { @class = "navbar-brand" })
+            <!-- Navbar links -->
+
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        @Html.ActionLink("Trang chủ", "Next", "Home", new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item active">
+                        @Html.ActionLink("Tin tức", "Next", "Home", new { @class = "nav-link" })
+
+                    </li>
+
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                            Kiến thức
+                        </a>
+                        <div class="dropdown-menu">
+                            @foreach (var item in Model)
+                            {
+                                //nhược điểm không tạo được đường link thân thiện
+                                <a class="dropdown-item" href="/KienThuc/@item.Link">@item.Ten.ToString()</a>
+                            }
+
+                        </div>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Tài liệu</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Diễn đàn</a>
+                    </li>
+                    <li class="nav-item active">
+                        @Html.ActionLink("Giới thiệu", "About", "Home", new { @class = "nav-link" })
+
+                    </li>
+
+
+
+                </ul>
+                <form class="form-inline my-2 my-lg-0" action="tim-kiem" method="post">
+                    <input class="form-control mr-sm-2" type="text" id="txtKeyword" name="searching" style="background-color :seashell" placeholder="Tìm kiếm">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Tìm kiếm</button>
+                </form>
+
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+
+                        @Html.ActionLink("Đăng nhập", "DangNhap", "LoginMember", new { area = "Member" }, new { @class = "btn btn-dark" })
+
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+    </nav>
+
+
+
+</div>
+
+

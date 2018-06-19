@@ -1,0 +1,260 @@
+﻿@using DoAnCNTT_HH.Common;
+@model Model.EF.TinTuc
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var dm = (List<Model.EF.DanhMucKienThuc>)ViewBag.Dmkt;
+    var DanhMucTinTuc = (List<Model.EF.DanhMucTinTuc>)ViewBag.DanhMucTinTuc;
+    var baiviet = (List<Model.EF.TinTuc>)ViewBag.BaiViet;
+    var ChiTietTinTucID = (Model.EF.TinTuc)ViewBag.TinTucID;
+    var baivietLienQuan = (List<Model.EF.TinTuc>)ViewBag.BaiViet_LienQuan;
+    var VideoMoi = (List<Model.EF.TinTuc>)ViewBag.VideoMoi;
+
+    var TinMoi = (List<Model.EF.TinTuc>)ViewBag.TinMoiNhat;
+    var TinXemNhieu = (List<Model.EF.TinTuc>)ViewBag.TinXemNhieuNhat;
+    var videoNoiBat = (List<Model.EF.TinTuc>)ViewBag.VideoHot;
+}
+
+<script src="~/Assets/Client/js/Comment.js"></script>
+
+<link rel="stylesheet" href="~/Assets/Client/TinTuc.css" />
+
+<section class="section-01">
+
+    <div class="row">
+        <div class="col-lg-2">
+
+            <ul class="list-group">
+
+
+                <li class="list-group-item disabled">Danh mục tin tức</li>
+                @foreach (var item in DanhMucTinTuc)
+                {
+                    <li class="list-group-item disabled">
+
+                        @Html.ActionLink(item.Ten.ToString(), item.Link, "TinTuc")
+                    </li>
+
+                }
+
+            </ul>
+
+            <br>
+
+
+            @*Thời tiết*@
+            <div id="cont_9ba68cb44e9ee6e60e8b1e7be7cb39e3">
+                <script type="text/javascript" async src="https://www.theweather.com/wid_loader/9ba68cb44e9ee6e60e8b1e7be7cb39e3"></script>
+            </div>
+
+
+        </div>
+
+        <div class="col-lg-10">
+
+            @*<div class="container-fluid">*@
+            <div class="row">
+
+                <!------ Include the above in your HEAD tag ---------->
+                <div class="col-sm-8" style="background-color:#ffffff">
+                    @*<h3 class="latest-news-all">Tin Mới</h3>*@
+
+                    <h2> @Model.Ten.ToString()</h2>
+                    <strong>@Model.TieuDe.ToString()</strong>
+                    <br />
+                    <div>
+                        <img src="@Model.HinhAnh" style="float:none; width:600px">
+                    </div>
+
+                    <br />
+
+
+                    @Html.Raw(Model.NoiDung)
+
+
+                    @if (Model.Video != null)
+                    {
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="@Model.Video" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    }
+                    else { }
+                </div>
+
+
+
+
+
+
+                <!-- phần thêm -->
+                <!-- phần tin thức bên phải side-bar-->
+
+
+                <aside class="col-lg-4 side-bar col-md-12">
+                    <ul class="nav nav-tabs" role="tablist" id="myTab">
+                        <li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#home" role="tab" style="color:black">Mới nhất</a> </li>
+                        <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#profile" role="tab" style="color:black">Xem nhiều</a> </li>
+                        <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#messages" role="tab" style="color:black">Video mới</a> </li>
+                    </ul>
+
+                    <!-- Tab panes -->
+                    <div class="tab-content sidebar-tabing" id="nav-tabContent">
+                        <div class="tab-pane active" id="home" role="tabpanel">
+
+                            @foreach (var item in TinMoi)
+                            {
+                                var url = "/tin-tuc/" + item.TieuDeSeo + "-" + item.TinTucID;
+
+                                <div class="media" style="background-color:#ffffff">
+                                    <a href="@url"> <img class="d-flex mr-3" src="@item.HinhAnh" alt=""></a>
+                                    <div class="media-body">
+                                        <div class="news-title">
+                                            <h2 class="title-small"><a href="@url" style="font-size:14px">@item.Ten.ToString()</a></h2>
+                                        </div>
+                                        <div>
+                                            <em>
+                                                @if (item.NgayTao != null)
+                                                {
+                                                    @*@item.NgayTao.Value.ToString();*@
+
+                                                    @Time_Ago.TimeAgo(item.NgayTao.Value);
+
+
+                                                }
+                                            </em>
+                                            @*<em>@item.LuotXem.ToString() Lượt xem</em>*@
+
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            }
+
+                        </div>
+
+
+
+                        <div class="tab-pane" id="profile" role="tabpanel">
+                            @foreach (var item in TinXemNhieu)
+                            {
+                                var url = "/tin-tuc/" + item.TieuDeSeo + "-" + item.TinTucID;
+
+                                <div class="media" style="background-color:#ffffff">
+                                    <a href="@url"> <img class="d-flex mr-3" src="@item.HinhAnh" alt=""></a>
+                                    <div class="media-body">
+                                        <div class="news-title">
+                                            <h2 class="title-small"><a style="font-size:14px" href="@url">@item.Ten.ToString()</a></h2>
+                                        </div>
+                                        <div>
+                                            @*<em>@item.NgayTao.ToString()</em>*@
+                                            <em>@item.LuotXem.ToString() Lượt xem</em>
+
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                      
+
+                        @*Video mới*@
+                        <div class="tab-pane" id="messages" role="tabpanel">
+
+                            @foreach (var item in VideoMoi)
+                            {
+                                var url = "/tin-tuc/" + item.TieuDeSeo + "-" + item.TinTucID;
+
+
+                                <div class="media" style="background-color:#ffffff">
+                                    <a href="#">
+                                        <div>
+                                            <iframe width="145" height="100" src="@item.Video"></iframe>
+                                        </div>
+
+                                    </a>
+                                    <div class="media-body" style="margin-left:10px">
+                                        <div class="news-title">
+                                            <h2 class="title-small"><a style="font-size:14px" href="@url">@item.Ten.ToString()</a></h2>
+                                        </div>
+                                        <div class="news-auther"><span class="time">@Time_Ago.TimeAgo(item.NgayTao.Value)</span></div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+
+
+                    </div>
+                    <div class="video-sec">
+                        <h4 class="heading-small">Video Nổi bật</h4>
+                        <div class="video-block">
+                            <div class="embed-responsive embed-responsive-4by3">
+                                @foreach (var item in videoNoiBat)
+                                {
+                                    <iframe class="embed-responsive-item" src="@item.Video" allowfullscreen></iframe>
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h4>Cùng chuyên mục</h4>
+                        <div class="latest-news">
+                            @foreach (var item in baivietLienQuan)
+                            {
+                                var url = "/tin-tuc/" + item.TieuDeSeo + "-" + item.TinTucID;
+
+
+                                <div class="latest-news-all" style="background-color:#fff ;padding-bottom :0px ">
+                                    <div class="latest-news-left" style="padding-right :5px"><a href="@url"> <img src="@item.HinhAnh" width="60" height="60" alt=""> </a></div>
+                                    <div class="latest-news-right">
+                                        <a href="@url">@item.Ten.ToString()</a>
+                                        <div class="news">
+                                            <span class="news-right">
+                                                @if (item.NgayTao != null)
+                                                {
+
+                                                    @Time_Ago.TimeAgo(item.NgayTao.Value);
+
+
+                                                }
+                                            </span>
+                                            <span class="news-right">Lượt xem : @item.LuotXem.ToString()</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+
+                        </div>
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </aside>
+
+
+                @*Phần comment bình luận*@
+                <div id="fb-root"></div>
+                <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-numposts="5"></div>
+
+
+            </div>
+        </div>
+
+
+    </div>
+    @*</div>*@
+
+
+
+
+
+</section>

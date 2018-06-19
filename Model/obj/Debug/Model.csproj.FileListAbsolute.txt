@@ -1,0 +1,272 @@
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\bin\Debug\Model.dll.config
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\bin\Debug\Model.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\bin\Debug\Model.pdb
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.xml
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\obj\Debug\Model.csproj.CopyComplete
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\obj\Debug\Model.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\OneDrive\Tài liệu\DoAnCNTT_HH\Model\obj\Debug\Model.pdb
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\bin\Debug\Model.dll.config
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\bin\Debug\Model.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\bin\Debug\Model.pdb
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\bin\Debug\EntityFramework.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\bin\Debug\EntityFramework.xml
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\obj\Debug\Model.csproj.CopyComplete
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\obj\Debug\Model.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong\Model\obj\Debug\Model.pdb
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\bin\Debug\Model.dll.config
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\bin\Debug\Model.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\bin\Debug\Model.pdb
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\bin\Debug\EntityFramework.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\bin\Debug\EntityFramework.xml
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\obj\Debug\Model.csproj.CopyComplete
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\obj\Debug\Model.dll
+E:\DATA_HT\C_Sharp\DoAnCNTT_HH_duphong - 3\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 3_Temp - Copy\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 5_Temp - Copy\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 7\DoAnCNTT_HH_duphong - 6\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 8\DoAnCNTT_HH_duphong - 8\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 10\DoAnCNTT_HH_duphong - 10\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 12_temp\DoAnCNTT_HH_duphong - 12_temp\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\PagedList.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\PagedList.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 13_temp\DoAnCNTT_HH_duphong - 13_temp\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\PagedList.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\PagedList.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 14_temp\DoAnCNTT_HH_duphong - 14\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.pdb
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\Model.dll.config
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\Model.dll
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\Model.pdb
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.dll
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.dll
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.Mvc.dll
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.xml
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.xml
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\bin\Debug\PagedList.Mvc.xml
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.csproj.CopyComplete
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.dll
+E:\DoAnCNTT_HH_duphong - 16\DoAnCNTT_HH_duphong - 16\Model\obj\Debug\Model.pdb
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\Model.dll.config
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\Model.dll
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\Model.pdb
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\EntityFramework.dll
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\PagedList.dll
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\PagedList.Mvc.dll
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\EntityFramework.xml
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\PagedList.xml
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\bin\Debug\PagedList.Mvc.xml
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\obj\Debug\Model.csproj.CopyComplete
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\obj\Debug\Model.dll
+E:\DoAnCNTT_HH_duphong - 17\DoAnCNTT_HH_duphong - 17\Model\obj\Debug\Model.pdb
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\Model.dll.config
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\Model.dll
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\Model.pdb
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\EntityFramework.dll
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\PagedList.dll
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\PagedList.Mvc.dll
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\EntityFramework.xml
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\PagedList.xml
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\bin\Debug\PagedList.Mvc.xml
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\obj\Debug\Model.csproj.CopyComplete
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\obj\Debug\Model.dll
+E:\DoAnCNTT_HH_duphong - 18\DoAnCNTT_HH_duphong - 18\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\PagedList.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\PagedList.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\DoAnCNTT_HH_duphong - 20\Model\obj\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\Model.dll.config
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\Model.pdb
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\EntityFramework.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\PagedList.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\EntityFramework.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\PagedList.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\obj\Debug\Model.dll
+C:\Users\blues.LOUIS-PC\Desktop\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\DoAnCNTT_HH_duphong - 21\Model\obj\Debug\Model.pdb

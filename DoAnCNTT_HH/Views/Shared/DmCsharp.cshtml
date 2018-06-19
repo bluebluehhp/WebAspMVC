@@ -1,0 +1,62 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<Model.EF.BaiHoc>
+@*@if(Model.DanhMucKienThucID)*@
+
+
+@*<ul class="list-group">
+        <li class="list-group-item active">Bài học Csharp</li>
+        @foreach (var item in Model)
+        {
+            var url = "/learn/" + item.TieuDeSeo + "-" + item.BaiHocID;
+
+            <li class="list-group-item disabled">
+                <a href="@url">@item.Ten.ToString(): @item.TieuDe.ToString()</a>
+            </li>
+
+
+        }
+
+
+    </ul>*@
+
+
+
+<div>
+    <h5>Bài học Csharp</h5>
+    @foreach (var item in Model)
+    {
+        var url = "/learn/" + item.TieuDeSeo + "-" + item.BaiHocID;
+
+        <a href="@url">@item.Ten.ToString(): @item.TieuDe.ToString()</a>
+        <br>
+    }
+    @*<ul class="list-group">
+
+        @foreach (var item in Model)
+        {
+            var url = "/learn/" + item.TieuDeSeo + "-" + item.BaiHocID;
+
+            <li class="list-group-item disabled">
+                <a href="@url">@item.Ten.ToString(): @item.TieuDe.ToString()</a>
+            </li>
+
+
+        }
+        @foreach (var item in Model)
+        {
+            var url = "/learn/" + item.TieuDeSeo + "-" + item.BaiHocID;
+
+            <li class="list-group-item disabled">
+                <a href="@url">@item.Ten.ToString(): @item.TieuDe.ToString()</a>
+            </li>
+
+
+        }
+
+    </ul>*@
+
+
+</div>

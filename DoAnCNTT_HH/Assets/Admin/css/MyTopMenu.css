@@ -1,0 +1,8 @@
+﻿.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: gray;
+    border-radius :75px, 75px;
+}
+
+
+
+

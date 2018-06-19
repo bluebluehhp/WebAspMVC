@@ -1,0 +1,25 @@
+﻿@model Model.EF.BaiHoc
+@{
+    ViewBag.Title = "LearnCsharp";
+    Layout = "~/Views/Shared/_Layout_KienThuc.cshtml";
+}
+
+@section kienthuc{
+    @if (Model.DanhMucKienThucID == 1)
+    {
+        { Html.RenderAction("DmPython", "KienThuc"); }
+    }
+    else if (Model.DanhMucKienThucID == 2)
+    {
+        { Html.RenderAction("DmCsharp", "KienThuc"); }
+    }
+    else if (Model.DanhMucKienThucID == 3)
+    {
+        { Html.RenderAction("DmJava", "KienThuc"); }
+    }
+
+}
+
+<strong>@Model.TieuDe.ToString()</strong>
+
+@Html.Raw(Model.NoiDung)
